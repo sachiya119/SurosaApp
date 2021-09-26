@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624443463814",
+    "project_id": "online-grocery-applicati-f99fa",
+    "storage_bucket": "online-grocery-applicati-f99fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624443463814:android:75bf07bb20495f4e065907",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624443463814-b2m134an7gqumnro1qp7sr05if5c13eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhT1URrOhvoDiU9XUbkHSE69os_cVwPWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624443463814-b2m134an7gqumnro1qp7sr05if5c13eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
